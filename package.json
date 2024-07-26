@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Dijkstra Algorithm is one of the most famous algorithms in computer science. There might be several possible routes to reach a destination point. If someone doesn’t travel through optimal path, it will consume more time and energy. This project aims to determine locations of the node that reflect all the nodes in the list, build the route by connecting nodes and evaluate the optimal path by using Dijkstra algorithm. Dijkstra’s Algorithm is also known as a single source shortest path algorithm which is used to find the shortest distance/path from one node to another node in a graph. This algorithm can be used only for positive distances from one location to another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
